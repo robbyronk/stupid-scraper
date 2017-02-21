@@ -1,0 +1,7 @@
+google.com
+facebook.com
+hg.python.org
+www.google.com
+plus.google.com
+www.facebook.com
+twitter.com
